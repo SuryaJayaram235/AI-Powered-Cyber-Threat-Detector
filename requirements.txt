@@ -2,7 +2,10 @@ streamlit>=1.37
 pandas>=2.0
 numpy>=1.24
 scikit-learn>=1.3
-plotly>=5.20
-ipaddress>=1.0
 xgboost>=1.7
 tensorflow>=2.15
+plotly>=5.20
+seaborn>=0.12
+shap>=0.42
+matplotlib>=3.7
+xlsxwriter
