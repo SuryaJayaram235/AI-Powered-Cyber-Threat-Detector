@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.h5
+*.log
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environment
+.env
+.venv/
+env/
+venv/
+
+# Streamlit cache
+.streamlit/
+logs/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Data
+*.csv
+*.zip
+*.tar.gz
+*.hdf5
+*.npy
+*.npz
